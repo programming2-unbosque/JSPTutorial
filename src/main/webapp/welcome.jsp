@@ -24,6 +24,6 @@
         <%= "Cube of 3 is: "+cube(3) %>
         <br /><br />
         <!-- scriptlet tag -->
-        <% //response.sendRedirect("http://www.google.com"); %>
+        <% response.sendRedirect("http://www.google.com"); %>
     </body>
 </html>
